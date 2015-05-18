@@ -1,0 +1,11 @@
+tempfile.txt
+.idea/
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/videos/
+#track any vids that are tour_ followed by any characters ending in mp4
+!assets/videos/tour_*.mp4
+
